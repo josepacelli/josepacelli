@@ -51,21 +51,6 @@ I enjoy creating practical, well-documented, reusable tools — both for interna
 
 👉 Check pinned repositories below ⬇️
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=josepacelli&show_icons=true&theme=dark"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=josepacelli&layout=compact&theme=dark"
-    height="180"
-  />
-</p>
-
 
 
 ---
