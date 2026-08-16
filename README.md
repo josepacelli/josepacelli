@@ -37,6 +37,8 @@ I work across the delivery lifecycle: backend APIs, web interfaces, data platfor
 
 <div align="center">
 
+![Contribution streak](https://readme-stats-fast.vercel.app/api/streak?username=josepacelli&theme=github_dark&hide_border=true)
+
 [![Most productive hours](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=josepacelli&theme=github_dark&utcOffset=-3)](https://github.com/josepacelli)
 
 ![Jose Pacelli contribution summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=josepacelli&theme=github_dark)
