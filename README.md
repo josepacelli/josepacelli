@@ -23,7 +23,7 @@ I work across the delivery lifecycle: backend APIs, web interfaces, data platfor
 ## Technology
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,kotlin,spring,fastapi,react,angular,typescript,postgres,mysql,docker,git,linux&theme=dark" alt="Java, Python, Kotlin, Spring, FastAPI, React, Angular, TypeScript, PostgreSQL, MySQL, Docker, Git, and Linux" />
+  <img src="https://skillicons.dev/icons?i=java,python,kotlin,spring,fastapi,react,angular,typescript,postgres,mysql,docker,git,linux&theme=dark" alt="Java, Python, Kotlin, Spring, FastAPI, React, Angular, TypeScript, PostgreSQL, MySQL, Docker, Git, and Linux" title="Java, Python, Kotlin, Spring, FastAPI, React, Angular, TypeScript, PostgreSQL, MySQL, Docker, Git, and Linux" />
 </p>
 
 ## Current Focus
